@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0322-coin-change](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
