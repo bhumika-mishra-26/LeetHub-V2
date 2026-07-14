@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0402-remove-k-digits) |
+| [1143-longest-common-subsequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1143-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
