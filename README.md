@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0238-product-of-array-except-self) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
