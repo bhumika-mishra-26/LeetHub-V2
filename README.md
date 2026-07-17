@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0322-coin-change) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1380-lucky-numbers-in-a-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
