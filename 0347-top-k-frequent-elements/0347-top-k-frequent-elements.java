@@ -1,28 +1,29 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        
+        int [] ans=new int [k];
         HashMap<Integer,Integer>mp=new HashMap<>();
         for(int i:nums)
         {
             mp.put(i,mp.getOrDefault(i,0)+1);
 
         }
-        PriorityQueue<Integer>pq=new PriorityQueue<>((a,b)->mp.get(a)-mp.get(b));
+        PriorityQueue<int []>pq=new PriorityQueue<>((a,b)->b[1]-a[1]);
+        
+        
         for(int i:mp.keySet())
+
         {
-            pq.offer(i);
-            if(pq.size()>k)
-            pq.poll();
-
-
+            pq.offer(new int []{i,mp.get(i)});
+           
+            
         }
-        int [] ans=new int [k];
-        for(int i=k-1;i>=0;i--)
+        for(int i=0;i<k;i++)
+
         {
-            ans[i]=pq.poll();
+            ans[i]=pq.poll()[0];
+
 
         }
         return ans;
     }
- 
 }
