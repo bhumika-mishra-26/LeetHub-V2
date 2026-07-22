@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0198-house-robber) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
