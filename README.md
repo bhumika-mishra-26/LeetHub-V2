@@ -29,6 +29,7 @@
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0518-coin-change-ii) |
+| [0704-binary-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1260-shift-2d-grid) |
@@ -77,6 +78,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
