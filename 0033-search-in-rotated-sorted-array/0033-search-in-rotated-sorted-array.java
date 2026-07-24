@@ -1,54 +1,62 @@
 class Solution {
     public int findPivot(int[] nums) {
-        int l = 0;
-        int r = nums.length - 1;
+        int s = 0;
+        int e = nums.length - 1;
 
-        while (l < r) {
-            int mid = l + (r - l) / 2;
+        //isme sabse pehle sabse chota element find karo array mai that is small
+        while (s < e)//taaki loop mae na fase  kyuki end mai jab dono equal honge 
+        {
+            int mid = s + (e - s) / 2;
+            if (nums[mid] > nums[e]) {
+                s = mid + 1;
+            } else
+                e = mid;
 
-            if (nums[mid] > nums[r]) {
-                l = mid + 1;
-            } else {
-                r = mid;
-            }
         }
+        return s;
 
-        return l;
     }
+    // 2.Dono mai binary search lagega
+    public int binarySearch(int [] nums,int s,int e,int target)
+    {
+        int idx=-1;
 
-    public int binarySearch(int l, int r, int[] nums, int target) {
-        int idx = -1;
-        while (l <= r) {
-            int mid = l + (r - l) / 2;
-            if (nums[mid] == target) {
-                idx = mid;
-                break;
+        while(s<=e)
+        {
+int mid=s+(e-s)/2;
+if(nums[mid]==target)
+{
+    idx=mid;
+    break;
 
-            } else if (nums[mid] < target) {
-                l = mid + 1;
+}
+else if(nums[mid]<target)
+s=mid+1;
+else
+e=mid-1;
 
-            } else {
-                r = mid - 1;
-
-            }
         }
         return idx;
 
     }
 
-    //isme humlog sabse pehle chota index find karenge 
     public int search(int[] nums, int target) {
+        int n=nums.length;
+        // 1. find sabse chota element that will be peak 
 
-        int n = nums.length;
+        // 2.now apply binary search on nums[0......peak-1] and nums[peak...n-1]
+        // bcz both of them are individually sorted
 
-        int pivot_index = findPivot(nums);
 
-        int idx = binarySearch(0, pivot_index - 1, nums, target);
+        int idx=1;
+        int pivot=findPivot(nums);
+    idx=    binarySearch(nums,0,pivot-1,target);
+        if(idx!=-1)
+        return idx;
+        return binarySearch(nums,pivot,n-1,target);
 
-        if (idx != -1)
-            return idx;
 
-        return binarySearch(pivot_index, n - 1, nums, target);
+
 
     }
 }
